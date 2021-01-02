@@ -8,7 +8,7 @@
 }
 
 .header_area .main-menu .navbar{
-    padding: 1rem 20rem;
+    padding: 1rem 9rem;
 }
 
 .header_area .main-menu .nav-item .nav-link{
@@ -18,7 +18,7 @@
 }
 
 .header_area .main-menu .navbar-nav a:hover{
-    background: #201adb;
+    background: #4689ee;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -47,15 +47,27 @@
 .para{
     padding-top: 1.2rem;
     line-height: 1.8rem;
+    margin-top: 0.3rem;
+    font-size: 15px;
 }
 
 img{
-    margin-top: 7rem;
-    margin-left: 9rem;
+    margin-top: 2rem;
+    margin-left: 8rem;
 
 }
 
 .name-header{
-    padding-left: 1.2rem;
+    padding-left: 1.1rem;
     padding-top: 1.5rem;
+}
+
+.main-menu{
+    font-size: 1.1rem; 
+}
+
+.navbar-brand{
+    font-size: 2.6rem;
+    margin-right: 0;
+    color: darkgray;
 }
